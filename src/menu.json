@@ -1,0 +1,158 @@
+{
+  "breakfast": [
+    {
+      "id": 0,
+      "name": "오믈렛",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "삶은계란",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "미역국",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "죽",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "토스트",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "샐러드",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "과일",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "파스타",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "미숫가루",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "떡",
+      "imgUrl": ""
+    }
+  ],
+  "lunch": [
+    {
+      "id": 0,
+      "name": "파스타",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "인도식 카레",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "돈까스",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "덮밥",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "떡볶이",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "마라탕",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "찌개",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "소고기 구이",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "피자",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "오므라이스",
+      "imgUrl": ""
+    }
+  ],
+  "dinner": [
+    {
+      "id": 0,
+      "name": "치킨",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "닭발",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "삼겹살",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "짜장면",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "피자",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "족발",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "제육볶음",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "불고기",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "떡갈비",
+      "imgUrl": ""
+    },
+    {
+      "id": 0,
+      "name": "수육",
+      "imgUrl": ""
+    }
+  ]
+}
